@@ -1,4 +1,4 @@
-# As we did with a Sercomm NA502(s). Step by step.
+## As we did with a Sercomm NA502(s). Step by step.
 ```
 This project is under active development.
 ```
