@@ -1,14 +1,14 @@
-# How we did it with a Sercomm NA502(s)
+# As we did with a Sercomm NA502(s). Step by step.
 ```
 This project is under active development.
 ```
 
-## Driving reasons, considerations and trends: 
+### Driving reasons, considerations and trends: 
 
 - Upgrading your appliances for reuse is absolutely in line with the circular economy.
 - What more could you want when it comes to preserving value and sustainability?
 
-## So the question simply arises:
+### So the question simply arises:
 
 How can you convert an ´A1 Smart Home Gateway´ into a still up-to-date WiFi access point that also offers a Zwave and a ZigBee module?
 
