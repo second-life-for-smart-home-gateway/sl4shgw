@@ -1,4 +1,4 @@
-# Second life: Keep using, keep loving ...
+# How we did it with a Sercomm NA502(s)
 ```
 This project is under active development.
 ```
