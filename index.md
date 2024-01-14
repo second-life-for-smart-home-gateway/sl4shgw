@@ -1,8 +1,8 @@
 |                         LATEST NEWS                          |
 | :----------------------------------------------------------: |
-| **`This project is still under active development.`**                    |
+| **`This project is still under active development.`**        |
 
-## As we did with a Sercomm NA502(s). Step by step.
+## As we did with a Sercomm NA502(s). Step by step. Simple as that.
 
 ### Driving reasons, considerations and trends: 
 
