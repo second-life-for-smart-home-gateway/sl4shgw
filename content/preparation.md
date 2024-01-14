@@ -1,4 +1,4 @@
-### What you need for implementation is, a
+# What you need for implementation is, a
 
 - computer device with an Ethernet and serial TTL connection
 - TFTP server and Console client running on your computer
@@ -8,6 +8,6 @@
   - the serial interface settings are `57600 8N1`
 - direct LAN cable connection between computer and gateway
   - It is the safest to
-    - manually assign your computer an IP address in the `192.168.1.x` range, eg. `192.168.1.100` 
-    - enter `192.168.1.1` for the router and 
+    - manually assign your computer an IP address in the `192.168.1.x` range, eg. `192.168.1.100`
+    - enter `192.168.1.1` for the router and
     - use `255.255.255.0` as the network mask.
