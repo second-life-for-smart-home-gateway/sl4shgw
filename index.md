@@ -1,6 +1,6 @@
 |                         LATEST NEWS                          |
 | :----------------------------------------------------------: |
-| **`This project is under active development.`**                    |
+| **`This project is still under active development.`**                    |
 
 ## As we did with a Sercomm NA502(s). Step by step.
 
