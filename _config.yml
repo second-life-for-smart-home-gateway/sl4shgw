@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-chirpy
 title: 2nd life for Smart Home Gateway
 github:
   is_project_page: true
